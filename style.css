@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/* HTML and Body Styles */
+
+html {
+    background-color: green;
+}
+
+body h1 {
+    text-align: center;
+    margin-right: 85px;
+}
+
+
+
+/* Table Styles */
+
+table {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid;
+    color: black;
+    background-color: lightgreen;
+    padding: 10px;
+    text-align: center;
+}
+
+caption {
+    color: white;
+    caption-side: bottom;
+}
+
+img.me {
+    width: 200px;
+    height: 150px;
+}
+
+img {
+    border: 3px solid blue;
+    margin: 10px;
+    display: block;
+    padding: 10px;
+}
+
+
+
